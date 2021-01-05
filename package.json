@@ -9,7 +9,7 @@
     "svgo": "svgo -f src/icons/svg --config=src/icons/svgo.yml"
   },
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "axios-mock-server": "^0.16.3",
     "core-js": "^3.6.1",
     "element-ui": "^2.13.0",
